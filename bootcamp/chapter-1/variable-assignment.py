@@ -7,7 +7,7 @@ no = 99
 
 # variable naming rules apply
 # no special symbols
-# no numbers
+# no numbers in the beginning
 # no blank spaces
 
 print('My name is ',fname,lname)
