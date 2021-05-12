@@ -32,3 +32,16 @@ print(s1 + s2)
 
 # REPITITION
 print(s1 * 5)
+
+# Built-in Methods
+cap = 'HELLO PEOPLE'
+
+print(cap.lower())
+cap = cap.lower()
+print(cap.upper())
+
+print(cap.split())
+print(cap.split('h'))
+
+#String formatting
+print('this is sample formatting and {}'.format(s2))
