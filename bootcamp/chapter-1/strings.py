@@ -11,3 +11,24 @@ s2 = "This is a sample string"
 
 print('This is another sample string')
 print('it"s an example to show how to use a quote in a quote')
+
+# len function on string
+print(len(s2))
+
+#                        string sllicing
+# string indexes starts from 0 when going left to right
+# -1 from right
+# [start:stop:step]
+
+print(s2[5::])
+
+# STRING PROPERTIES
+#It's important to note that strings have an important property known as immutability.
+# This means that once a string is created, the elements within it can not be changed or replaced.
+
+
+# String Concatenation
+print(s1 + s2)
+
+# REPITITION
+print(s1 * 5)
