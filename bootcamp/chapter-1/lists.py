@@ -16,7 +16,7 @@ popped_item = sl.pop(1)
 print(popped_item)
 print(sl)
 
-sl = [1,85,14,21,65,18,11,10,5]
+sl = [1,85,14,21,65,18,11,10,5,25]
 
 sl.sort()
 print(sl)
