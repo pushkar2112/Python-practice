@@ -22,6 +22,10 @@ print(len(s2))
 
 print(s2[5::])
 
+# Reversing a string(shortcut)
+
+print(s2[::-1])
+
 # STRING PROPERTIES
 #It's important to note that strings have an important property known as immutability.
 # This means that once a string is created, the elements within it can not be changed or replaced.
