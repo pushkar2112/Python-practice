@@ -9,7 +9,7 @@ print(len(mylist))
 
 sl = [21,12,'sam']
 
-sl.append('joe')
+sl.append('jose')
 
 popped_item = sl.pop(1)
 
