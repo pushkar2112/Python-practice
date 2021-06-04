@@ -17,3 +17,6 @@ print(f'His name is {name}, his age is {age}, he is from {ctry}')
 #           to get string representation
 print(f'His name is {name!r}, his age is {age}, he is from {ctry!r}')
 
+# Float formatting
+print('half of his age is {:.2f}'.format(age/2))
+print('half of his age is {:.4f}'.format(age/2))
