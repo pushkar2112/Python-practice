@@ -1,0 +1,4 @@
+This is a sample text file to test python file handling.
+Hello World
+TODAY IS A GOOD DAY
+this line is in small case
